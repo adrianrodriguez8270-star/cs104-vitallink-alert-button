@@ -26,4 +26,3 @@ try:
 except KeyboardInterrupt:
     print("\nMonitoring stopped.")
     GPIO.cleanup()
-
